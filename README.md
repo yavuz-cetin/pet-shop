@@ -1,4 +1,6 @@
 # pet-shop
+Petshop app using postgresql and java.
+
 Java Version : 17
 
 In Main, database name, user name and password should be set according to pgAdmin.
